@@ -4,6 +4,7 @@
   },
   "dependencies": {
     "@types/faker": "^4.1.9",
-    "faker": "^4.1.0"
+    "faker": "^4.1.0",
+    "parcel-bundler": "^1.12.4"
   }
 }
